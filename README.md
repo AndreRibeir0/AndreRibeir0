@@ -1,25 +1,10 @@
 ### Hi, I'm André Ribeiro 👋
 
-<!--
-**AndreRibeir0/AndreRibeir0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andré-ribeiro-77a1a4112/)](https://www.linkedin.com/in/andré-ribeiro-77a1a4112/)
 
-<a href="https://codepen.io/andreribeir0">
+<!-- <a href="https://codepen.io/andreribeir0">
   <img align="left" alt="Andre Ribeiro | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
-</a>
+</a> -->
 
 <br />
 <br />
