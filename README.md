@@ -23,6 +23,6 @@ I'm a Full-Stack Developer with Focus on Back-End.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreRibeir0&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Readme Card](https://moveit-three-phi.vercel.app)]https://github.com/AndreRibeir0/NLW-4
+[![Readme Card](https://moveit-three-phi.vercel.app)](https://moveit-three-phi.vercel.app)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AndreRibeir0&repo=NLW-4)](https://github.com/AndreRibeir0/NLW-4)
