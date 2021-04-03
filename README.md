@@ -1,7 +1,9 @@
-### Hi there 👋
+### Hi, I'm André Ribeiro 👋
 
 <!--
 **AndreRibeir0/AndreRibeir0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andré-ribeiro-77a1a4112/)](https://www.linkedin.com/in/andré-ribeiro-77a1a4112/)
 
 Here are some ideas to get you started:
 
