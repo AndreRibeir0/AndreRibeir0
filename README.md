@@ -1,6 +1,6 @@
 ### Hi, I'm André Ribeiro 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andré-ribeiro-77a1a4112/)](https://www.linkedin.com/in/andré-ribeiro-77a1a4112/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andré-ribeiro-77a1a4112/)](https://www.linkedin.com/in/andre-ribeiro1993/)
 
 <!-- <a href="https://codepen.io/andreribeir0">
   <img align="left" alt="Andre Ribeiro | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
